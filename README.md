@@ -2,8 +2,10 @@
 
 I add more things on tensorflow, such as dropout and use tensorboard to visualization.
 
-## Tensorflow CNN
+## Tensorflow Dropout
+I add a dropout probality for hidden layer. This method may help to speed up convergence.
 
+## Tensorflow CNN
 I still use the mnist data.
 
 + input layer : 784 nodes (MNIST images size)
