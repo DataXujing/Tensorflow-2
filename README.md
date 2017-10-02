@@ -16,6 +16,7 @@ I still use the mnist data.
 + third fully-connected layer : 1024 nodes
 + output layer : 10 nodes (number of class for MNIST)
 + for learning rate, I use 0.0001
+
 I also put a GPU version for CNN, we'd better run CNN in GPU, since CPU is so slower.
 What we should take care of in GPU is that we can't put use all the data in one time. Since GPU would have out of memroy issue.
 For my test, GPU is about 30 times faster than CPU.
