@@ -28,4 +28,4 @@ But I didn't see a boosting in GPU, it is same speed with CPU.
 GPU is faster in CNN and DNN in my experience.
 
 ## save and restore
-Show a example of save and restore the RNN model we trained. We should keep the model structure the same.
+Show a example of save and restore the RNN model we trained. We should keep the model structure the same. The NET file the model we saved.
