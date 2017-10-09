@@ -9,3 +9,4 @@ tensorboard --logdir=E:\Python_Project\tensorboard\result\tensorboard (depends o
 After your imput, copy and paste the address to your Chrome. <br />
 
 Below is my result:
+![alt text](https://raw.githubusercontent.com/shiluyuan/Tensorflow_more/tensorboard/picture.png)
