@@ -29,3 +29,6 @@ GPU is faster in CNN and DNN in my experience.
 
 ## save and restore
 Show a example of save and restore the RNN model we trained. We should keep the model structure the same. The NET file the model we saved.
+
+## Tensorflow_quantity
+We can also use tensorflow to do quantity prediction. Here I give you small example with two hidden layers.
